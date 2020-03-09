@@ -43,7 +43,7 @@ insert into empleado values
 insert into empleado values
 (1015, 'MALDONADO FERNANDEZ AITOR', 'ANALISTA', 1003, TO_DATE('14/10/2001','DD/MM/YYYY'), 1000.5, 0, 4);
 insert into empleado values
-(1016, 'MENDEZ LOPEZ IKER', 'ANALISTA', 1004, TO_DATE('16/10/2001','DD/MM/YYYY'), 3000.5, 0, 2);
+(1016, 'MENDEZ LOPEZ IKER', 'ANALISTA', 1004, TO_DATE('16/10/2001','DD/MM/YYYY'), 10000.5, 0, 2);
 insert into empleado values
 (1017, 'MONTEJO LOPEZ DE TORRE JORGE', 'ANALISTA', 1004, TO_DATE('16/10/2001','DD/MM/YYYY'), 2500.5, 0, 4);
 insert into empleado values
