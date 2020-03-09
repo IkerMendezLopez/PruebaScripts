@@ -1,0 +1,13 @@
+drop table mat_art;
+drop table ins_pro;
+drop table mat_pro;
+drop table emp_tra_pro;
+drop table emp_inv_pro;
+drop table emp_emp;
+drop table materia_especial;
+drop table materia_no_especial;
+drop table materia;
+drop table articulo;
+drop table institucion;
+drop table proyecto;
+drop table emple;
